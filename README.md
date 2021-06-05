@@ -1,1 +1,1 @@
-# Miriminphoto.reservation-main
+# Miriminphoto.GroupReservation
